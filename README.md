@@ -1,4 +1,4 @@
-Hacktrick ctfinde web sorularından sadece 1 tanesi olan ve sadece 2 takımın çözebildiği bir web sorusu. Sadece 1.olan takım ve bizim takımımız çözebilmiştir.
+Hacktrick ctfinde web sorularından biri olan ve sadece 2 takımın çözebildiği bir web sorusu. Sadece 1.olan takım ve bizim takımımız çözebilmiştir.
 
 ![1](https://github.com/djedfj40/hacktrick-web-write_up/assets/24505484/2027f7b5-5b85-4d57-81de-2f928fe6080f)
 
