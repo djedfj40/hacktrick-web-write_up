@@ -25,7 +25,7 @@ eğer başarılı olursak "ls" komutunu çalıştırıp bana bulunduğumuz dizin
 
 ![6](https://github.com/djedfj40/hacktrick-web-write_up/assets/24505484/03d4ab62-e611-4446-89a2-e0dee323906e)
 
-Tekrar login olup session değerimi okumya çalıştığımda, yazdığım php kodunun başarıyla çalıştığını ve dosyaları bana getirdiğini görüyorum.
+Tekrar login olup session değerimi okumaya çalıştığımda, yazdığım php kodunun başarıyla çalıştığını ve dosyaları bana getirdiğini görüyorum.
 
 Şimdi sıra tekrar kayıt olup "flag.php" dosyasını okumakta
 
